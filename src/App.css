@@ -1,0 +1,15 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  margin-left: 10px;
+}
+
+button {
+  margin-top: 10px;
+  cursor: pointer;
+}
